@@ -96,7 +96,7 @@ export default function ContactPage() {
               {[
                 {
                   icon: MapPin,
-                  label: '123 Beauty Lane, Suite 100, Beverly Hills, CA 90210',
+                  label: 'OFFICE NO 404, FOURTH FLOOR TRIVENI KRUPA BUILDING, OPP, AMBE MATA MANDIR, BORIVALI EAST, MUMBER, 400066',
                 },
                 { icon: Mail, label: 'veoracosmetics@gmail.com' },
                 { icon: Phone, label: '+91 8446942088' },
